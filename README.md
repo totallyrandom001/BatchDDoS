@@ -1,6 +1,9 @@
 **DISCLAIMER**
 This application is only intended for use in testing website stress handling, cybersecurity evaluation, and other legal reasons. Using this application to cause real world harm is strictly forbidden.
 
+**WARNING**
+This software is flagged by most antivirus software as malware. If you are alarmed by this, feel free to check the source code to authenticate that this is not a virus.
+
 **How to use**
 _How to start_
 1. Launch the application
